@@ -1,0 +1,10 @@
+class A{
+	int a;
+	string a ; 
+	int main(int a){
+		int b,k;
+		a=b+k;
+	int main(string m )
+}	
+
+

@@ -1,0 +1,7 @@
+﻿  ast.cpp
+G:\Badr_Samara\projectTEST\projectTEST\hash_fun.h(31,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Badr_Samara\projectTEST\projectTEST\hash_fun.h(43,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\Badr_Samara\projectTEST\projectTEST\ast.cpp(1893,65): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+G:\Badr_Samara\projectTEST\projectTEST\ast.cpp(1893,95): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+G:\Badr_Samara\projectTEST\projectTEST\ast.cpp(1893,125): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  projectTEST.vcxproj -> G:\Badr_Samara\projectTEST\x64\Debug\projectTEST.exe
